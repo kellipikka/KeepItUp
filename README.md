@@ -62,3 +62,5 @@ There are currently no known issues or bugs.
 
 - Email: kellipikka@gmail.com
 - Facebook Messenger: Kelli Pikka
+
+Copyright (c) 2024 Kelli Pikka
