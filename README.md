@@ -17,6 +17,7 @@ The Habit Tracker web application is designed to simplify the process of habit t
 
 ### Technologies and Frameworks
 - React
+- Next.js
 - Additional technologies for features such as authentication will be determined as the project progresses.
 
 ## Installation
