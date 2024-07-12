@@ -1,8 +1,17 @@
-// pages/index.js
+// src/pages/index.tsx
+import Head from "next/head";
+import Link from "next/link";
+import Header from "../components/layout/Header";
+
 export default function Home() {
-    return (
-        <div className="min-h-screen flex items-center justify-center bg-gray-100">
-            <h1 className="text-4xl font-bold text-blue-600">Hello, Tailwind CSS!</h1>
-        </div>
-    )
+  return (
+    <div>
+      <Head>
+        <title>KeepItUp</title>
+        <meta name="description" content="Habit tracker homepage" />
+        <link rel="icon" href="/icons/logo/logo-initials-only.svg" />
+      </Head>
+      <Header />
+    </div>
+  );
 }
