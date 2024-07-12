@@ -5,17 +5,20 @@
 An intuitive and user-friendly web application designed to streamline the habit tracking process. Inspired by traditional habit trackers, this application aims to make habit management more efficient and accessible.
 
 ## Progress
+
 The project is currently in the early stages of development. The design sprint was closed on 05/07/24. Project setup in PhpStorm started on 06/07/24.
 
 ## Project Description
 
 The Habit Tracker web application is designed to simplify the process of habit tracking. Key features include:
+
 - Adding and deleting habits
 - Archiving habits
 - Viewing habit statistics
 - Setting regularity for each habit
 
 ### Technologies and Frameworks
+
 - React
 - Next.js
 - Additional technologies for features such as authentication will be determined as the project progresses.
@@ -43,9 +46,11 @@ Special thanks to Endrik E. for his support, assistance, and ideas.
 ## Features and Roadmap
 
 ### Currently Implemented
+
 - The project is still in the design phase; no features have been implemented yet.
 
 ### Planned Features
+
 - Add and delete habits
 - Archive habits
 - View habit statistics
