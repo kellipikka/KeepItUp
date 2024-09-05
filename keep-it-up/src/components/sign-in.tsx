@@ -5,11 +5,10 @@ export function SignIn() {
         <form
             onSubmit={async event => {
                 event.preventDefault();
-                ('use server');
                 await signIn('google');
             }}
         >
-            <button type="submit">Signin with Google</button>
+            <button type="submit">Sign-in with Google</button>
         </form>
     );
 }

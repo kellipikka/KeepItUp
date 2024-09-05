@@ -1,10 +1,10 @@
 // src/pages/index.tsx
 import Head from 'next/head';
 import React, { useState, useEffect, useRef } from 'react';
-import Header from '../components/layout/Header';
+import Header from '@/components/layout/Header';
 import Logo from '../../public/icons/logo/logo-full-text.svg';
 import { clsx } from 'clsx';
-import { SignIn } from '../components/sign-in';
+import { SignIn } from '@/components/sign-in';
 
 export default function Home() {
     const [scrolled, setScrolled] = useState(false);
